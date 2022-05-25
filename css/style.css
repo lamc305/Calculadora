@@ -79,6 +79,7 @@ input:focus {
     .btn{
         width: 90px;
         font-size: 12px;
+        margin: 10px;
     }
     .btns {
         flex-wrap: wrap;
