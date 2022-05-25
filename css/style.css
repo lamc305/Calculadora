@@ -71,7 +71,7 @@ input:focus {
 
 }
 
-@media screen and (max-width: 425px){
+@media screen and (max-width: 570px){
     h1 {
         font-size: 45px;
         padding: 0;
