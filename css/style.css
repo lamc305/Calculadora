@@ -66,6 +66,12 @@ input:focus {
     text-transform: uppercase;
 }
 
+.btn:hover{
+    background-color: white;
+    color: black;
+    box-shadow: 2px 2px 2px black;
+}
+
 .resultado {
     margin-top: 50px;
 
